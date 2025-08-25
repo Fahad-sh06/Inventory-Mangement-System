@@ -76,3 +76,13 @@ The **Inventory Management System (IMS)** is a Java-based console application th
 - Include detailed profit reports (daily, monthly, yearly)
 - Implement GUI for better usability
 - Add backup and restore functionality
+
+
+## 📞 Contact
+
+For any questions or feedback regarding this project, feel free to reach out:  
+
+- **Name:** Fahad Shamshad  
+- **Email:** fahads19080@gmail.com  
+- **GitHub:** [github.com/Fahad-sh06](https://github.com/Fahad-sh06)  
+- **LinkedIn:** [linkedin.com/in/fahad-shamshad-8118ba312](https://www.linkedin.com/in/fahad-shamshad-8118ba312/)  
